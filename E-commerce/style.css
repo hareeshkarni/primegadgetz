@@ -1,0 +1,6 @@
+.link{
+    display: inline-block; /* Ensure it wraps around the image */
+}
+.click{
+    cursor: pointer;
+}
